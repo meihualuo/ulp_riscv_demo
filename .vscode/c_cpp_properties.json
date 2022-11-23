@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/devops/espmaster/esp-idf/components/ulp/ulp_riscv/include",
+                "/home/devops/espmaster/esp-idf/components/ulp/ulp_riscv/ulp_core/include",
+                "/home/devops/espmaster/esp-idf/components/esp_common/include",
+                "/home/devops/espmaster/esp-idf/components/ulp/ulp_common/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,4 @@
+**/build
+.VSCodeCounter
+.vscode/*.log
+*.zip

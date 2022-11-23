@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "freertos.h": "c",
+        "ulp_riscv_utils.h": "c",
+        "ulp_riscv.h": "c"
+    }
+}
